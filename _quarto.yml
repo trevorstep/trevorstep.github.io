@@ -22,7 +22,7 @@ website:
       - text: "Home"
         file: index.qmd
       - text: "My Resume"
-        file: resume.qmd
+        file: resume.png
       - text: "Data Cleansing"
         file: cleansing.qmd
       - text: "Data Exploration"
