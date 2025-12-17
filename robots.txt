@@ -1,1 +1,1 @@
-Sitemap: https://trevorstep.github.io/Data-Science-Portfolio/sitemap.xml
+Sitemap: https://trevorstep.github.io/sitemap.xml
